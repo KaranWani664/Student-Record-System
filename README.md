@@ -12,16 +12,6 @@ This feature enables users to view a comprehensive list of all the student recor
 #### 3. Exit
 The system includes an easy exit option, allowing users to terminate the program without any complications. This user-friendly feature ensures a smooth and hassle-free interaction with the application.
 
-### Usage:
-
-Users can run the program using a Java compiler or integrated development environment (IDE). Upon execution, a user-friendly interface guides them through the options:
-
-1. **Add Student:** Users are prompted to input relevant details for a new student, ensuring accurate and up-to-date information in the system.
-
-2. **Display All Students:** Users can review a comprehensive list of all student records, facilitating efficient monitoring and evaluation.
-
-3. **Exit:** Users can gracefully exit the program when their tasks are complete.
-
 ### Implementation Details:
 
 Behind the scenes, the program employs an ArrayList to dynamically manage and organize student records. The `Student` class encapsulates the necessary attributes, promoting a structured and object-oriented approach to data storage.
